@@ -1,0 +1,19 @@
+body {
+  margin: 0 auto;
+  width: 80%;
+  background-color: beige;
+}
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+h3 {
+  text-align: center;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
